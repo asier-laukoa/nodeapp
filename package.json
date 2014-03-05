@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "Express App with EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"express": "*",
+	"ejs": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asier-laukoa/nodeapp.git"
+  },
+  "author": "Asier Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asier-laukoa/nodeapp/issues"
+  },
+  "homepage": "https://github.com/asier-laukoa/nodeapp"
+}
